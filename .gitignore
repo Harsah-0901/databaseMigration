@@ -1,0 +1,5 @@
+.env
+venv
+api key .txt
+
+*.json
