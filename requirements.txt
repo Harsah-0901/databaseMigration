@@ -1,3 +1,9 @@
 google-generativeai
 pyodbc
 python-dotenv
+pyodbc
+pandas
+tqdm
+PyYAML
+tenacity
+SQLAlchemy
